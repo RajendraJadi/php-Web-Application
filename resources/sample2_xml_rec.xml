@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>  
+  <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" Owner="KIE">
+            <PMID Version="1">12211266</PMID>
+            <DateCreated>
+                <Year>2002</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </DateCreated>
+            <DateCompleted>
+                <Year>2002</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </DateRevised>
+            <Article PubModel="Print">
+                <Journal>
+                    <ISSN IssnType="Print">1054-6863</ISSN>
+                    <JournalIssue CitedMedium="Print">
+                        <Volume>12</Volume>
+                        <Issue>1</Issue>
+                        <PubDate>
+                            <Year>2002</Year>
+                            <Month>Mar</Month>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Kennedy Institute of Ethics journal</Title>
+                    <ISOAbbreviation>Kennedy Inst Ethics J</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Public policy and the sale of human organs.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>47-64</MedlinePgn>
+                </Pagination>
+                <Abstract>
+                    <AbstractText>Gill and Sade, in the preceding article in this issue of the Kennedy Institute of Ethics Journal, argue that living individuals should be free from legal constraints against selling their organs. The present commentary responds to several of their claims. It explains why an analogy between kidneys and blood fails; why, as a matter of public policy, we prohibit the sale of human solid organs, yet allow the sale of blood; and why their attack on Kant's putative argument against the sale of human body parts is misplaced. Finally, it rejects the claim that the state is entitled to interfere with the actions of individuals only if such actions would harm others. We draw certain lines grounded in what Rawls has termed "public reason" beyond which we do not give effect to the autonomous self-regarding decisions of individuals. Public resistance to the sale of human body parts, no matter how voluntary or well informed, is grounded in the conviction that such a practice would diminish human dignity and our sense of solidarity. A system of organ donation, in contrast, conveys our respect for persons and honors our common humanity.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Cohen</LastName>
+                        <ForeName>Cynthia B</ForeName>
+                        <Initials>CB</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Kennedy Institute of Ethics, Georgetown University, Washington, DC, USA.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                </PublicationTypeList>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>United States</Country>
+                <MedlineTA>Kennedy Inst Ethics J</MedlineTA>
+                <NlmUniqueID>9109135</NlmUniqueID>
+                <ISSNLinking>1054-6863</ISSNLinking>
+            </MedlineJournalInfo>
+            <CitationSubset>E</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D001782" MajorTopicYN="Y">Blood Donors</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D032821" MajorTopicYN="N">Commodification</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D026689" MajorTopicYN="Y">Ethical Analysis</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D005249" MajorTopicYN="Y">Fees and Charges</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D018594" MajorTopicYN="N">Human Body</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D007668" MajorTopicYN="Y">Kidney</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D016030" MajorTopicYN="N">Kidney Transplantation</DescriptorName>
+                    <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D019520" MajorTopicYN="Y">Living Donors</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D011640" MajorTopicYN="Y">Public Policy</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D009927" MajorTopicYN="N">Tissue and Organ Procurement</DescriptorName>
+                    <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <OtherID Source="KIE">103573</OtherID>
+            <KeywordList Owner="KIE">
+                <Keyword MajorTopicYN="N">Analytical Approach</Keyword>
+                <Keyword MajorTopicYN="N">Health Care and Public Health</Keyword>
+            </KeywordList>
+            <GeneralNote Owner="KIE">24 refs. 4 fn.</GeneralNote>
+            <GeneralNote Owner="KIE">KIE Bib: blood donation; organ and tissue donation</GeneralNote>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2002</Year>
+                    <Month>9</Month>
+                    <Day>5</Day>
+                    <Hour>10</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2002</Year>
+                    <Month>9</Month>
+                    <Day>26</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2002</Year>
+                    <Month>9</Month>
+                    <Day>5</Day>
+                    <Hour>10</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">12211266</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>
